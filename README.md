@@ -1,2 +1,2 @@
-# SYNU_INTERN
+# SYNC_INTERN
 All the tasks for SYNC INTERN
